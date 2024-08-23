@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ContractAce/static/css/main.85544c9c.css",
+    "main.js": "/ContractAce/static/js/main.2c1118a3.js",
+    "static/js/453.482357eb.chunk.js": "/ContractAce/static/js/453.482357eb.chunk.js",
+    "static/media/services-bg.jpg": "/ContractAce/static/media/services-bg.0ba1a761df2266dc3e67.jpg",
+    "static/media/banner-home-1.jpg": "/ContractAce/static/media/banner-home-1.c45125af51795b0db6ed.jpg",
+    "static/media/pattern_bg_2.jpg": "/ContractAce/static/media/pattern_bg_2.84c5b4f3bef1b8d7c39e.jpg",
+    "static/media/bg-login.jpg": "/ContractAce/static/media/bg-login.689f4cbdba878057a143.jpg",
+    "index.html": "/ContractAce/index.html",
+    "main.85544c9c.css.map": "/ContractAce/static/css/main.85544c9c.css.map",
+    "main.2c1118a3.js.map": "/ContractAce/static/js/main.2c1118a3.js.map",
+    "453.482357eb.chunk.js.map": "/ContractAce/static/js/453.482357eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85544c9c.css",
+    "static/js/main.2c1118a3.js"
+  ]
+}
